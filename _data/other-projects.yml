@@ -1,6 +1,6 @@
 - name: Termalc V1
-  url: https://github.com/meditlon/termalc
-  code: https://github.com/meditlon/termalc
+  url: https://github.com/bromitlon/termalc
+  code: https://github.com/bromitlon/termalc
   description: A Simple Terminal based calculator made with python during my python programing language beginner course.
   used:
     - thing: Terminal Based
@@ -10,8 +10,8 @@
     - thing: No GUI
 
 - name: Personal WebPage V1
-  url: https://meditlon.github.io/
-  code: https://github.com/meditlon/meditlon.github.io
+  url: https://bromitlon.github.io/
+  code: https://github.com/bromitlon/bromitlon.github.io
   description: A Simple Personal Portfolio website made with HTML, CSS Javascript, with help of jeykill and take a huge inspiration from 'Bchiang' Mentioned on project page.
   used:
     - thing: HTML
@@ -22,8 +22,8 @@
     - thing: Simple
 
 - name: Aerial V1
-  url: https://github.com/meditlon/aerial
-  code: https://github.com/meditlon/aerial
+  url: https://github.com/bromitlon/aerial
+  code: https://github.com/bromitlon/aerial
   description: A Simple, One Page HTML CSS JS Webpage with simple elements, showing only basic information with a nice look and feel. With the KISS[Keep It Simple Stupid] Concept
   used:
     - thing: Simple
