@@ -1,22 +1,22 @@
 # Site settings
-name: MeditLon
-title: MeditLon | Personal Page For Public
-description: I'm MeditLon, a design-minded one who is Still learning New Stuff, FOSS Supporter & Cyber Nerd
-url: https://meditlon.github.io/
+name: BromitLon
+title: BromitLon | Personal Page For Public
+description: I'm BromitLon, a design-minded one who is Still learning New Stuff, FOSS Supporter & Cyber Nerd
+url: https://bromit.github.io/
 baseurl: ''
-email: hi@mdtln.slmail.me
-cover: https://meditlon.github.io/img/og.png
-logo: https://meditlon.github.io/img/emojis/technologist.png
-resume: https://meditlon.github.io/resume.pdf
+email: hi@bromit.slmail.me
+cover: https://bromitlon.github.io/img/og.png
+logo: https://bromitlon.github.io/img/emojis/technologist.png
+resume: https://bromitlon.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:hi@mdtln.slmail.me
+    url: mailto:hi@bromit.slmail.me
   - title: twitter
-    url: https://twitter.com/meditlon
+    url: https://twitter.com/bromitlon
   - title: instagram
-    url: https://instagram.com/meditlon
+    url: https://instagram.com/bromitlon
   - title: github
-    url: https://github.com/meditlon
+    url: https://github.com/bromitlon
 
 # Build settings
 markdown: kramdown
